@@ -1,0 +1,6 @@
+{
+    "sepal_length": 1, // Integer
+    "sepal_width" : 5, // Integer
+    "petal_length": 5, // Integer
+    "petal_width" : 3  // Integer
+}
